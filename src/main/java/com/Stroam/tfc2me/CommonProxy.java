@@ -10,10 +10,10 @@ public class CommonProxy {
 	public void preInit(FMLPreInitializationEvent event)
 	{
 
-		registerCrops();
+		//registerCrops();
 		ModBlocks.LoadBlocks();
 		ModBlocks.RegisterBlocks();
-		ModBlocks.RegisterTileEntites();
+		//ModBlocks.RegisterTileEntites();
 		ModItems.Load();
 		ModItems.SetupCreativeTabs();
 		ModItems.Register();

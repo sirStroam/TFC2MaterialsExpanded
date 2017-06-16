@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "tfc2:blocks/rammed_earth/chert"
+        "all": "tfc2me:blocks/rammed_earth/rammed_earth chert"
     }
 }
