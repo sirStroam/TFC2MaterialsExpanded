@@ -1,6 +1,6 @@
 package com.Stroam.tfc2me;
 
-import com.Stroam.tfc2me.core.Recipes;
+import com.Stroam.tfc2me.core.TimberRegistry;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -13,6 +13,7 @@ public class CommonProxy {
 		//registerCrops();
 		ModBlocks.LoadBlocks();
 		ModBlocks.RegisterBlocks();
+		TimberRegistry.init();
 		//ModBlocks.RegisterTileEntites();
 		ModItems.Load();
 		ModItems.SetupCreativeTabs();
@@ -27,10 +28,10 @@ public class CommonProxy {
 
 	public void postInit(FMLPostInitializationEvent event)
 	{
-		Recipes.RegisterNormalRecipes();
-		Recipes.RegisterKnappingRecipes();
-		Recipes.RegisterKilnRecipes();
-		registerFuel();
+		//Recipes.RegisterNormalRecipes();
+		//Recipes.RegisterKnappingRecipes();
+		//Recipes.RegisterKilnRecipes();
+		//registerFuel();
 	}
 
 	protected void registerCrops()

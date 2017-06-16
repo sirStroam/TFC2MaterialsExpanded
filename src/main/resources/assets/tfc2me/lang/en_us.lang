@@ -1,0 +1,56 @@
+
+#en_US
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the ยง symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+
+tile.rammed_earth.name=Rammed Earth
+
+#halftimber
+
+tile.daub_cob0.name=Timber Framed Wattle and Daub
+tile.daub_cob1.name=Timber Framed Wattle and Daub
+tile.daub_cob_arrow0.name=Timber Framed Wattle and Daub
+tile.daub_cob_arrow1.name=Timber Framed Wattle and Daub
+tile.daub_cob_arrow2.name=Timber Framed Wattle and Daub
+tile.daub_cob_arrow3.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor0.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor1.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor2.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor3.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor4.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor5.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor6.name=Timber Framed Wattle and Daub
+tile.daub_cob_barndoor7.name=Timber Framed Wattle and Daub
+tile.daub_cob_bottom_l.name=Timber Framed Wattle and Daub
+tile.daub_cob_bottom.name=Timber Framed Wattle and Daub
+tile.daub_cob_bottom_r.name=Timber Framed Wattle and Daub
+tile.daub_cob_left.name=Timber Framed Wattle and Daub
+tile.daub_cob_parallel_hor.name=Timber Framed Wattle and Daub
+tile.daub_cob_parallel_vert.name=Timber Framed Wattle and Daub
+tile.daub_cob_right.name=Timber Framed Wattle and Daub
+tile.daub_cob_slash_back.name=Timber Framed Wattle and Daub
+tile.daub_cob_slash.name=Timber Framed Wattle and Daub
+tile.daub_cob_square.name=Timber Framed Wattle and Daub
+tile.daub_cob_square_x.name=Timber Framed Wattle and Daub
+tile.daub_cob_top_l.name=Timber Framed Wattle and Daub
+tile.daub_cob_top.name=Timber Framed Wattle and Daub
+tile.daub_cob_top_r.name=Timber Framed Wattle and Daub
+tile.daub_cob_triangle0.name=Timber Framed Wattle and Daub
+tile.daub_cob_triangle1.name=Timber Framed Wattle and Daub
+tile.daub_cob_triangle2.name=Timber Framed Wattle and Daub
+tile.daub_cob_triangle3.name=Timber Framed Wattle and Daub
+tile.daub_cob_xbottom.name=Timber Framed Wattle and Daub
+tile.daub_cob_xdoor0.name=Timber Framed Wattle and Daub
+tile.daub_cob_xdoor1.name=Timber Framed Wattle and Daub
+tile.daub_cob_xdoor2.name=Timber Framed Wattle and Daub
+tile.daub_cob_xdoor3.name=Timber Framed Wattle and Daub
+tile.daub_cob_xleft.name=Timber Framed Wattle and Daub
+tile.daub_cob_x.name=Timber Framed Wattle and Daub
+tile.daub_cob_xright.name=Timber Framed Wattle and Daub
+tile.daub_cob_xtop.name=Timber Framed Wattle and Daub
+
+

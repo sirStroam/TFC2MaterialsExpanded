@@ -26,7 +26,7 @@ public class ModItems {
 		TFC2ME.log.info(new StringBuilder().append("[TFC2ME] Registering Items").toString());
 		RegistryItemQueue.getInstance().registerItems();
 
-		SetupHarvestLevels();
+		//SetupHarvestLevels();
 	}
 
 	/**

@@ -1,16 +1,16 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "tfc2me",
+  "name": "TFC@ materials expanded",
+  "description": "Expands the building materials in TFC2.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["Stroam"],
+  "credits": "Forge and FML guys, Biox, Alastor",
+  "logoFile": "AestheticMaterials.png",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [required-after:tfc2_coremod;after:harvestcraft]
 }
 ]

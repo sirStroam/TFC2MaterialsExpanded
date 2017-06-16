@@ -1,5 +1,6 @@
 package com.Stroam.tfc2me;
 
+import com.Stroam.tfc2me.core.TimberRegistry;
 import com.bioxx.tfc2.Core;
 import com.bioxx.tfc2.api.Global;
 import net.minecraft.client.Minecraft;
@@ -18,7 +19,7 @@ public class ClientProxy extends CommonProxy{
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		super.preInit(event);
-
+		TimberRegistry.initModels();
 		setupBlockMeshes();
 
 	}
