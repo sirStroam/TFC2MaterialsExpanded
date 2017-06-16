@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = Reference.ModID, name = Reference.ModName, version = Reference.ModVersion, useMetadata = false, dependencies = Reference.ModDependencies)
+@Mod(modid = Reference.ModID, name = Reference.ModName, version = Reference.ModVersion, dependencies = Reference.ModDependencies)
 public class TFC2ME {
 	@Instance
 	public static TFC2ME instance;
@@ -19,6 +19,8 @@ public class TFC2ME {
 
 	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
 	public static CommonProxy proxy;
+
+	//comment
 
 	public TFC2ME() {}
 
